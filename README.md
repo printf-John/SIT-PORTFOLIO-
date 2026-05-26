@@ -1,4 +1,4 @@
-# John Chua — SIT Resume
+# John Chua — SIT ReApplication
 
 ## About Me
 Graduate from Ngee Ann Polytechnic
