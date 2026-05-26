@@ -1,4 +1,4 @@
-# John Chua — SIT Portfolio
+# John Chua — SIT Resume
 
 ## About Me
 Graduate from Ngee Ann Polytechnic
@@ -29,7 +29,7 @@ Passionate about:
 
 ---
 
-## Portfolio Sections
+## Resume Sections
 | Topic | Description |
 |------|------|
 | CS50 | Harvard CS50 problem sets |
