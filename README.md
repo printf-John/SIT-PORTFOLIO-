@@ -30,7 +30,7 @@ Passionate about:
 ---
 
 ## Projects documented
--Network Scanner
+- Network Scanner
 
 
 ## Resume Sections
