@@ -29,6 +29,10 @@ Passionate about:
 
 ---
 
+## Projects documented
+-Network Scanner
+
+
 ## Resume Sections
 | Topic | Description |
 |------|------|
