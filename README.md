@@ -30,7 +30,9 @@ Passionate about:
 ---
 
 ## Projects documented
-- Network Scanner
+- Virtual Home Lab
+- Network Monitoring Lab
+- Basic Vulnerability Test
 
 
 ## Resume Sections
